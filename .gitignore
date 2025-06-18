@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/DA02-Productive Data Science Python.pptx
+/Hands-on_with_IntegratedML-v2 1.ipynb
+/Pipfile
+/Pipfile.lock
+/datascience.code-workspace
+/test.py
